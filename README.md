@@ -108,15 +108,3 @@ Dashboard built on a single, clean sheet layout
 
 ✅ Insight Extraction: Done
 
-⏳ Optional: Export to Power BI or Web
-
-
-
----
-
-📷 Dashboard Preview
-
-Add screenshot(s) here showing your Excel dashboard
-
-
----
